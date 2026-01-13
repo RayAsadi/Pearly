@@ -1,0 +1,7 @@
+{
+  "name": "Pearly AI - Advanced Dental Assistant",
+  "description": "A high-performance dental health assistant powered by Gemini 3 Flash and Google Search Grounding to provide up-to-date information on dental care, emergencies, and treatments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

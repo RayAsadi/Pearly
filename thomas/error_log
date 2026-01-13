@@ -1,0 +1,47 @@
+[12-Jan-2026 07:00:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:01:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/roidentalagency/public_html/thomas/login.php:4
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/login.php(4): mysqli->__construct('localhost', 'your_db_user', Object(SensitiveParameterValue), 'your_db_name')
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/login.php on line 4
+[12-Jan-2026 07:06:44 UTC] PHP Warning:  Undefined array key "type" in /home/roidentalagency/public_html/thomas/api_staff.php on line 89
+[12-Jan-2026 07:06:44 UTC] PHP Warning:  Undefined array key "visitor_data" in /home/roidentalagency/public_html/thomas/api_staff.php on line 90
+[12-Jan-2026 07:06:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'type' cannot be null in /home/roidentalagency/public_html/thomas/api_staff.php:94
+Stack trace:
+#0 /home/roidentalagency/public_html/thomas/api_staff.php(94): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/roidentalagency/public_html/thomas/api_staff.php on line 94
